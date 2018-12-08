@@ -1,6 +1,8 @@
 import urllib.parse
 import requests
 
+#enter your API link HERE and accordingly change the attributes for your API
+
 main_api = 'http://maps.googleapis.com/maps/api/geocode/json?'
 
 while True:
